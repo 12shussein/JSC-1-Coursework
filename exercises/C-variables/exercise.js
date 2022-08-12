@@ -2,4 +2,4 @@
 let greeting ="Hello world";
 console.log(greeting);
 console.log(greeting);
-console.log(greetings);
+console.log(greeting);
